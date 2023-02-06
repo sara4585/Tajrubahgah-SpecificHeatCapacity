@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - UIDraggable
+  - Table
+  - BobPan
+  - BalancePan
+  - CupPan
+  - BalanceShade
+  - BalanceObj
+  - BobShade
+  - CupShade
+  - BalanceScreen
+  - BalanceButton
+  - BobMassBtn
+  - CupMassBtn
+  - WaterFilledCupMass
+  - JugPan
+  - JugObj
+  - Cup
+  - WoodenStandObj
+  - HeatingSetup
+  - HorizontalMovableRod
+  - BunsenBurner
+  - Thermometer
+  - HeatingStandPan
+  - TripodPan
+  - BurnerPan
+  - BeakerPan
+  - ThermometerPan
+  - HangerBobPan
+  - BobObj
+  - TripodObj
+  - ThermometerObj
+  - BurnerObj
+  - BeakerObj
+  - HangerBobObj
+  - BurnerBtn
+  - MercuryObj
+  - PThermometerPan
+  - PWaterCupPan
+  - PWoodenStand
+  - WaterCup
+  - WaterCupCap
+  - PThermometerObj
+  - PMercury
+  - PolystyreneSetup
+  - PWoodenStandPan
+  - horizontalRodMovingBtn
+  - Joystick
+  - DummyCapPosition
+  - Floor
+  - CircleNotification
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Inventory
+  - Room
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
